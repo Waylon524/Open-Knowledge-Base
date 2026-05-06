@@ -34,10 +34,9 @@
 | 层级 | 工具 | 用途 |
 |------|------|------|
 | 数据采集 | 网络收集 + 公有领域文献 | 获取已有知识点 Markdown 文件或原始文献作为素材 |
-| 辅助生成与校对 | [T.R.E.E. 引擎](https://github.com/Waylon524/T.R.E.E.) | 多智能体对抗式教材生成与审核 |
+| 教材生成 | [T.R.E.E. 引擎](https://github.com/Waylon524/T.R.E.E.) | 多智能体对抗式教材生成与审核 |
 | 处理脚本 | Python | 自动化批处理、知识点路由映射 |
 | 存储格式 | Markdown（LaTeX 渲染科学公式） | 知识点文件存储 |
-| 质量审核 | [T.R.E.E. 引擎](https://github.com/Waylon524/T.R.E.E.) | 多智能体对抗式教材审核 |
 
 ## 操作流程 (Workflow)
 
